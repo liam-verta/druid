@@ -52,5 +52,5 @@ To use this Apache Druid extension, [include](../../development/extensions.md#lo
   druid.metadata.storage.type=sqlserver
   druid.metadata.storage.connector.connectURI=jdbc:sqlserver://<host>;databaseName=druid
   druid.metadata.storage.connector.user=druid
-  druid.metadata.storage.connector.password=diurd
+  druid.metadata.storage.connector.password=druid
   ```
